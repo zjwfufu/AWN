@@ -1,0 +1,18 @@
+epochs: 100
+batch_size: 128
+patience: 10
+milestone_step: 3
+gamma: 0.5
+lr: 0.001
+dataset: '2016.10b'
+
+num_classes: 10
+num_level: 1
+regu_details: 0.01
+regu_approx: 0.01
+kernel_size: 3
+in_channels: 64
+latent_dim: 320
+
+monitor: 'acc'
+test_batch_size: 64
