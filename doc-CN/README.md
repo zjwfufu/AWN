@@ -98,7 +98,7 @@ python main.py --mode visualize --dataset <DATASET>
 @ARTICLE{10058977,
 	author={Zhang, Jiawei and Wang, Tiantian and Feng, Zhixi and Yang, Shuyuan},
 	journal={IEEE Transactions on Cognitive Communications and Networking}, 
-	title={Towards the Automatic Modulation Classification with Adaptive Wavelet 	Network}, 
+	title={Towards the Automatic Modulation Classification with Adaptive Wavelet Network}, 
 	year={2023},
 	doi={10.1109/TCCN.2023.3252580}
 }
