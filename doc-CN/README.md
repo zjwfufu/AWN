@@ -104,4 +104,4 @@ python main.py --mode visualize --dataset <DATASET>
 }
 ```
 
-联系方式：thu DOT lhchen AT gmail DOT com
+联系方式：zjw AT stu DOT xidian DOT edu DOT cn
