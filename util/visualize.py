@@ -128,6 +128,7 @@ def save_training_process(train_process, cfg):
     plt.title("learning rate")
     plt.grid()
     fig1.savefig(cfg.result_dir + '/' + 'lr.svg', format='svg', dpi=150)
+    plt.close()
 
     fig2 = plt.figure(figsize=(12, 4))
     plt.subplot(1, 2, 1)
@@ -150,3 +151,4 @@ def save_training_process(train_process, cfg):
     plt.grid()
     fig2.savefig(cfg.result_dir + '/' + 'loss_acc.svg', format='svg', dpi=150)
     plt.show()
+    plt.close()
