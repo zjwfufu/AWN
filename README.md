@@ -2,7 +2,7 @@
 
 Code for "Towards the Automatic Modulation Classification with Adaptive Wavelet Network".
 
-Jiawei Zhang, Tiantian Wang, [ZhixiFeng](https://faculty.xidian.edu.cn/FZX/zh_CN/index.htm), and [Shuyuan Yang](https://web.xidian.edu.cn/syyang/)
+Jiawei Zhang, Tiantian Wang, [Zhixi Feng](https://faculty.xidian.edu.cn/FZX/zh_CN/index.htm), and [Shuyuan Yang](https://web.xidian.edu.cn/syyang/)
 
 Xidian University
 
